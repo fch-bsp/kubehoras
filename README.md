@@ -5,7 +5,7 @@
 
 
 ### Neste repositório, mostrarei como criar uma aplicação em node com banco de dados postgres e tudo com micro-serviço com Docker e Kubernetes
-#### Serviços usados dutante o projeto:
+#### Serviços usados durante a criação do projeto:
 
 ##### Node
 ![2022-06-11_05-25](https://user-images.githubusercontent.com/102867453/173179995-4c30364c-941d-409b-ac15-a5e9d9f0d24e.jpeg)
@@ -17,5 +17,12 @@
 ![2022-06-11_05-30](https://user-images.githubusercontent.com/102867453/173180199-84c1fcc6-2dfa-4062-8e98-ec172d31a270.jpeg)
 
 ---
+#### Tela boas vindas! 
 
 ![2022-06-11_05-16](https://user-images.githubusercontent.com/102867453/173179743-1963d817-9832-4fe4-af3f-f664a191a566.jpeg)
+
+---
+
+#### Tela anotações
+
+![2022-06-11_05-32](https://user-images.githubusercontent.com/102867453/173180279-0fd08c7b-f2f2-4c8a-ac1a-44a4d221bcd5.jpeg)
