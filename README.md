@@ -10,7 +10,7 @@
 ##### Node
 ![2022-06-11_05-25](https://user-images.githubusercontent.com/102867453/173179995-4c30364c-941d-409b-ac15-a5e9d9f0d24e.jpeg)
 ##### Postgre
-![2022-06-11_05-24](https://user-images.githubusercontent.com/102867453/173179952-c75bbabb-4765-4923-bb70-77bdb9e3f88d.jpeg)
+![2022-06-11_05-27](https://user-images.githubusercontent.com/102867453/173180064-235427d7-8775-45cd-9b4e-1c1580f95352.jpeg)
 ##### Docker
 ##### Kubernetes
 
