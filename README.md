@@ -26,3 +26,9 @@
 #### Tela anotações
 
 ![2022-06-11_05-32](https://user-images.githubusercontent.com/102867453/173180279-0fd08c7b-f2f2-4c8a-ac1a-44a4d221bcd5.jpeg)
+
+---
+
+## Foi utilizado para esse lab, o k3d da Rancher
+
+![2022-06-11_05-35](https://user-images.githubusercontent.com/102867453/173180378-25ce3a4c-111f-4b8a-94e5-4e7606b2ec2e.jpeg)
