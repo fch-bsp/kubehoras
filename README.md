@@ -10,6 +10,7 @@
 ##### Node
 ![logo-hexagon-card](https://user-images.githubusercontent.com/102867453/173179839-e9768755-6185-4abc-9957-ab0986cceb10.png)
 ##### Postgre
+![PostgreSQL-Logo wine](https://user-images.githubusercontent.com/102867453/173179875-199c57e8-6561-4298-8cd0-ffc0337b147f.png)
 ##### Docker
 ##### Kubernetes
 
