@@ -8,6 +8,7 @@
 #### Serviços usados dutante o projeto:
 
 ##### Node
+![logo-hexagon-card](https://user-images.githubusercontent.com/102867453/173179839-e9768755-6185-4abc-9957-ab0986cceb10.png)
 ##### Postgre
 ##### Docker
 ##### Kubernetes
